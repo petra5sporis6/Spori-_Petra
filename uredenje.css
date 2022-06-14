@@ -1,0 +1,56 @@
+@charset "UTF-8";
+p {
+color: #316B83
+
+
+}
+p{
+
+  font-family: Times, "Times New Roman", Georgia, serif;
+font-size: 16px;
+line-height: 25px;
+width: 650px;
+
+}
+p{
+padding: 15px;
+}
+.paragraf_2{color: #354259; background-color: rgba(255,255,255,0.5)}
+.novi_blok{
+  background-color: rgba(255,255,255,0.5);
+  padding: 1px;
+  margin: 10px;
+  width: 20%;
+}
+
+h1,h2{
+  font-style: italic;
+  color: #635666
+}
+body{
+  background-image: url("slike za projekt/d5bfbf.png");
+}
+
+a:link {
+  color: black;
+  background-color: white;
+  padding: 5px;
+  line-height: 40px;
+border: 1px solid #000000
+}
+a:hover {
+    background-color: lightgray;
+}
+img{
+  height: 450px;
+}
+blockquote,p{
+color: #354259
+}
+.paragraf_3{color: #354259; background-color: rgba(255,255,255,0.5)}
+.novi_blok{
+  background-color: rgba(255,255,255,0.5);
+  padding: 20px;
+  margin: 30px;
+  width: 20%;
+}
